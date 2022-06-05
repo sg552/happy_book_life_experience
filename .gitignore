@@ -68,3 +68,4 @@ puma.rb
 db/schema.rb
 *.csv
 *.rdb
+_book
