@@ -27,6 +27,8 @@
 
 - 修炼自我
 
+慢慢写吧。
+
 ## 编译本书
 
 1. install node
@@ -37,7 +39,9 @@
 
 4. gitbook serve
 
+## 源代码
 
+https://github.com/sg552/happy_book_life_experience
 
 
 
