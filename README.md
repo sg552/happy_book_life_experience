@@ -9,20 +9,35 @@
 
 大概分成如下内容吧（很多地方纵横交错，难以做归类的）
 
-# 这些年对我有影响的经历
+- 这些年对我有影响的经历
 
-# 活着的意义
+- 活着的意义
 
-# 看人 ok
+- 看人 ok
 
-# 择偶 ok
+- 择偶 ok
 
-# 使用自己的肉身 ..
+- 使用自己的肉身 ..
 
-# 赚钱
+- 赚钱
 
-# 这个世界的规则
+- 这个世界的规则
 
-# 脑子要灵活. 达成目标
+- 脑子要灵活. 达成目标
 
-# 修炼自我
+- 修炼自我
+
+## 编译本书
+
+1. install node
+
+2. npm install gitbook-cli@2.1.2 --global
+
+3. vim ~/.gitbook/versions/3.2.3/lib/output/website/copyPluginAssets.js,  把所有的 confirm: true 替换成 confirm: false
+
+4. gitbook serve
+
+
+
+
+
